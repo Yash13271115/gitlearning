@@ -3,4 +3,4 @@ const b = 4;
 
 const sum = a + b;
 
-console.log(sum);
+console.log("this is the sum of two "+sum);
